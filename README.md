@@ -17,3 +17,8 @@ source venv/bin/activate
 
 now run by:
 python cha1/module.py
+
+In python # means comment
+for longer comment "multile comment "" .............. """
+
+
